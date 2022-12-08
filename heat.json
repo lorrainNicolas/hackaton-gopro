@@ -1,1 +1,9 @@
-fSalut Alex
+{
+    "job_information": {
+      "title": "iOS Developer",
+      "salary": 5000
+   },
+   "firstname": "John",
+   "lastname": "Doe",
+    "age": 20
+}
